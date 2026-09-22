@@ -64,3 +64,5 @@ OpenRouter appears among the partners on the platform's home page, but the sourc
 ## Closing thoughts
 
 A Kimi API key is quick to create and the docs around it are thorough: quickstarts per model, a Playground, a debugging tool, integration guides for the common coding agents. If your project also needs to generate images, video or audio from code, that is not what this key is for. [Try Synexa - one REST endpoint and Python SDK for FLUX, video and audio models](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=kimi-api-key&utm_content=readme-top&utm_term=tier-r) covers that side with per-run billing, and the two sit comfortably next to each other in the same .env file.
+
+_Last reviewed: 2026-09-22_
